@@ -1,0 +1,15 @@
+h1 {
+    font-size: 70px;
+}
+
+body{
+ font-family: arial Narrow;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+}

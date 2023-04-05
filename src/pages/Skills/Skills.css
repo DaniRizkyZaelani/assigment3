@@ -1,0 +1,12 @@
+h1 {
+    font-size: 70px;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+}
+
